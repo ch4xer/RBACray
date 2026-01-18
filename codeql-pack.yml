@@ -1,0 +1,7 @@
+---
+library: false
+warnOnImplicitThis: false
+name: ch4xer/rbacray
+version: 1.0.0
+dependencies:
+  codeql/go-all: ^0.7.11
